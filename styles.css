@@ -15,7 +15,6 @@ body {
     background-repeat: no-repeat;
     background-color: #83d7f9;
     width: 90%;
-    padding-bottom: 100px;
 }
 
 header img {
@@ -51,6 +50,7 @@ main {
     width: 90%;
     margin: auto;
     margin-top: 32px;
+    margin-bottom: 50px;
 
     display: grid;
     gap: 24px;
