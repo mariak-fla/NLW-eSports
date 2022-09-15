@@ -21,11 +21,10 @@ header img {
     max-width: 175px;
     margin-left: auto;
     margin-right: auto;
-    /*margin-top: 30px;*/
     border: 4px solid white;
     transition: transform .3s;
 
-    /*animation: fromTop .7s .4s backwards;*/
+    animation: fromTop .7s .4s backwards;
     
 }
 
