@@ -9,11 +9,8 @@
 body {
     font-family: 'inter', sans-serif;
     line-height: 160%;
-    background-image: url(./assets/bg.jpg);
-    background-position: top center; 
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-color: #83d7f9;
+    background: rgb(254,223,255);
+    background: linear-gradient(200deg, rgba(254,223,255,1) 0%, rgba(245,138,252,1) 10%, #a6f0fd 50%, rgba(131,215,249,1) 100%);
 }
 
 header img {
@@ -23,9 +20,7 @@ header img {
     margin-right: auto;
     border: 4px solid white;
     transition: transform .3s;
-
-    animation: fromTop .7s .4s backwards;
-    
+    animation: fromTop .7s .4s backwards;   
 }
 
 header img:hover {
