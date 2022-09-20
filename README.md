@@ -2,14 +2,21 @@
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
+>PT-BR
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído na Trilha Explorer do evento Next Level Week da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://mariak-fla.github.io/NLW-eSports/)
 
-## 🚀 Tecnologias
+>EN-US
+
+Project created for Rocketseat's NLW event.
+
+🔗 [Click here to see it](https://mariak-fla.github.io/NLW-eSports/)
+
+## ⚙️ Languages
 
 - HTML
 - CSS
-- Git e Github
+- Git
+- Github
